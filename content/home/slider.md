@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Organizations that have signed up:"
-#  content = "I am center aligned :smile:"
-  content = "![image](/img/imagename)PCMH and Aveksha"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0006_Aveksha_Hospital.jpg\"><br>Aveksha Hospital</p>"
+  # content = "![image](/img/Logos_0006_Aveksha_Hospital.jpg)"
+  # align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  # overlay_img = "covid-action-website-desktop.png"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "Logos_0006_Aveksha_Hospital.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -35,38 +35,45 @@ height = ""
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)OSU"
-  align = "center"
+# [[item]]
+#   title = "Organizations that have signed up:"
+#   content = "![image](/img/imagename)OSU"
+#   align = "center"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Change Alliance"
-  align = "center"
+  # content = "![image](/img/Logos_0005_Change_Alliance.jpg)"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0005_Change_Alliance.jpg\"><br>Change Alliance</p>"
+  # align = "right"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)GraamVani"
-  align = "center"
+  # content = "![image](/img/Logos_0003_gramvaani.jpg)"
+  # align = "center"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0003_gramvaani.jpg\"><br>Gram Vaani</p>"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Noora Health"
-  align = "center"
+  # content = "![image](/img/Logos_0004_Noora_Health.jpg)"
+  # align = "center"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0004_Noora_Health.jpg\"><br>Noora Health</p>"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)OBVIOUS"
-  align = "center"
+  # content = "![image](/img/Logos_0002_obvious.jpg)"
+  # align = "center"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0002_obvious.jpg\"><br>OBVIOUS</p>"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Association of Designers, Bangalore"
-  align = "center"
+  # content = "![image](/img/Logos_0001_ADI.jpg)"
+  # align = "center"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0001_ADI.jpg\"><br>Association of Designers of India</p>"
 
 [[item]]
   title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Industree"
-  align = "center"
+  # content = "![image](/img/Logos_0006_Industree.jpg)"
+  # align = "center"
+  content = "<p align=\"center\"><br><img src=\"/img/Logos_0006_Industree.jpg\"><br>Industree</p>"
+
 +++
