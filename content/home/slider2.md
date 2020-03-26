@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -16,9 +16,9 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Organizations that have signed up:"
+  title = "Collaborators:"
 #  content = "I am center aligned :smile:"
-  content = "![image](/img/imagename)PCMH and Aveksha"
+  content = "![image](/img/imagename)<Name, Title>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,37 +36,37 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)OSU"
+  title = "Collaborators:"
+  content = "![image](/img/imagename)<Name, Title>"
   align = "center"
 
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Change Alliance"
-  align = "center"
-
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)GraamVani"
-  align = "center"
-
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Noora Health"
-  align = "center"
-
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)OBVIOUS"
-  align = "center"
-
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Association of Designers, Bangalore"
-  align = "center"
-
-[[item]]
-  title = "Organizations that have signed up:"
-  content = "![image](/img/imagename)Industree"
-  align = "center"
+# [[item]]
+#   title = "Collaborators:"
+#   content = "Change Alliance![image](/img/imagename)"
+#   align = "center"
+# 
+# [[item]]
+#   title = "Collaborators:Organizations that have signed up:Right"
+#   content = "GraamVani![image](/img/imagename)"
+#   align = "center"
+# 
+# [[item]]
+#   title = "Collaborators:Organizations that have signed up:Right"
+#   content = "Noora Health![image](/img/imagename)"
+#   align = "center"
+# 
+# [[item]]
+#   title = "Collaborators:Organizations that have signed up:Right"
+#   content = "OBVIOUS![image](/img/imagename)"
+#   align = "center"
+# 
+# [[item]]
+#   title = "Collaborators:Organizations that have signed up:Right"
+#   content = "Association of Designers, Bangalore![image](/img/imagename)"
+#   align = "center"
+# 
+# [[item]]
+#   title = "Collaborators:Organizations that have signed up:Right"
+#   content = "Industree![image](/img/imagename)"
+#   align = "center"
 +++

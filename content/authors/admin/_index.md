@@ -85,6 +85,8 @@ Through all of this, We aim to rapidly and cost effectively:
 * Treat appropriately and care
 * Mitigate any other impacts
 
+![Framework](/covid-action-website-desktop.png)
+
 ## Collaborate
 
 #CovidActionCollab is a group of individuals and organisations across public, private, civil society, academia with expertise in Public Health, Medicine, Technology, Sociology, Behavioural science, Finance, Humanitarian Emergencies, Supply Chain Management, Designers, and more. CoVID-19 has already demonstrated that it has no regard for borders, or groups. We have to work together to respond effectively.
