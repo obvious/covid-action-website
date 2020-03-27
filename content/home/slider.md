@@ -19,11 +19,11 @@ height = ""
   title = "Organizations that have signed up:"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0006_Aveksha_Hospital.jpg\"><br>Aveksha Hospital</p>"
   # content = "![image](/img/Logos_0006_Aveksha_Hospital.jpg)"
-  # align = "center"  # Choose `center`, `left`, or `right`.
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#98a6ad"  # An HTML color value.
   # overlay_img = "Logos_0006_Aveksha_Hospital.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -44,36 +44,42 @@ height = ""
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0005_Change_Alliance.jpg)"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0005_Change_Alliance.jpg\"><br>Change Alliance</p>"
-  # align = "right"
+  align = "center"
+  overlay_color = "#98a6ad"
 
 [[item]]
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0003_gramvaani.jpg)"
-  # align = "center"
+  align = "center"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0003_gramvaani.jpg\"><br>Gram Vaani</p>"
+  overlay_color = "#98a6ad"
 
 [[item]]
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0004_Noora_Health.jpg)"
-  # align = "center"
+  align = "center"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0004_Noora_Health.jpg\"><br>Noora Health</p>"
+  overlay_color = "#98a6ad"
 
 [[item]]
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0002_obvious.jpg)"
-  # align = "center"
+  align = "center"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0002_obvious.jpg\"><br>OBVIOUS</p>"
+  overlay_color = "#98a6ad"
 
 [[item]]
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0001_ADI.jpg)"
-  # align = "center"
+  align = "center"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0001_ADI.jpg\"><br>Association of Designers of India</p>"
+  overlay_color = "#98a6ad"
 
 [[item]]
   title = "Organizations that have signed up:"
   # content = "![image](/img/Logos_0006_Industree.jpg)"
-  # align = "center"
+  align = "center"
   content = "<p align=\"center\"><br><img src=\"/img/Logos_0006_Industree.jpg\"><br>Industree</p>"
+  overlay_color = "#98a6ad"
 
 +++

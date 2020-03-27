@@ -88,7 +88,7 @@ Central to the framework is a calibrated action which continuously reads the loc
 
 #CovidActionCollab is a group of individuals and organisations across public, private, civil society, academia with expertise in Public Health, Medicine, Technology, Sociology, Behavioural science, Finance, Humanitarian Emergencies, Supply Chain Management, Designers, and more. CoVID-19 has already demonstrated that it has no regard for borders, or groups. We have to work together to respond effectively.
 
-Join the fight against COVID
+**[Join the fight against COVID]()**
 
 ## What does this mean for you as a partner?
 
@@ -104,6 +104,6 @@ We are a technology enabled exchange where you can contribute and utilise a rang
 8. Counsellors
 9. Finance
 
-Become a part of the #CovidCollab Working Group
+**Become a part of the #CovidCollab Working Group**
 
 For more details of framework, [click through](https://docs.google.com/presentation/d/1fuZo-078hV-vMByQEVIYYuVFKKT3iOFmktuutKQHmwU/edit#slide=id.g71e2013e55_202_0).
